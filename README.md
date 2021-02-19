@@ -2,7 +2,7 @@
 
 ## I'm a Software engineer and Maker!!
 
-- 🔭 I am working on cleaning up my Display board project.
+- 🔭 I am working on documenting previous projects.
 - 🌱 I’m currently learning docker containers for ARM
 - 👯 I’m looking to work on any projects!
 - 🥅 2021 Goal: Clean up my own code
