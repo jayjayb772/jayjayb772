@@ -1,4 +1,4 @@
-### Hey, I'm Jay 👋
+### Hey, I'm June 👋
 
 ## I'm a Software engineer and Maker!!
 
