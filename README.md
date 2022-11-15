@@ -3,9 +3,9 @@
 ## I'm a Software engineer and Maker!!
 
 - 🔭 I am working on documenting previous projects.
-- 🌱 I’m currently learning docker containers for ARM
+- 🌱 I’m currently learning Rust and Web Assembly
 - 👯 I’m looking to work on any projects!
-- 🥅 2021 Goal: Clean up my own code
+- 🥅 2023 Goal: Learn Rust!
 - ⚡ Fun fact: I learn by doing, and I'm always doing something.
 
 ### Connect with me:
@@ -29,14 +29,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/laravel/laravel.png" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" />
 
 <br />
 <br />
 
 ---
-
-## GitHub Stats
-
-<img align="left" alt="jayjayb772's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jayjayb772&theme=tokyonight&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/j-bender/
