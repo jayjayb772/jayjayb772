@@ -2,12 +2,6 @@
 
 ## I'm a Software engineer and Maker!!
 
-- 🔭 I am working on documenting previous projects.
-- 🌱 I’m currently learning Rust and Web Assembly
-- 👯 I’m looking to work on any projects!
-- 🥅 2023 Goal: Learn Rust!
-- ⚡ Fun fact: I learn by doing, and I'm always doing something.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
